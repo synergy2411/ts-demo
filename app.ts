@@ -1,5 +1,3 @@
-// //ES6+ features
-
 // //Destructuring : Array & Objects
 // var arr = ["foo","bar","bam"];
 // var [arr1, arr3] = arr;
